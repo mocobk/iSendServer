@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="rc">
+    <file alias="icon.png">rc/icon.png</file>
+    <file alias="down_arrow.png">rc/down_arrow.png</file>
+    <file alias="down_arrow_disabled.png">rc/down_arrow_disabled.png</file>
+  </qresource>
+</RCC>
